@@ -73,7 +73,7 @@ The custom Error handler in handlers/handlers.go manages 404 and 500 errors:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/go-jwt-mk1-showcase.git
+git clone https://github.com/yourusername/go-jwt-mk1-showcase
 ```
 
 ```bash
